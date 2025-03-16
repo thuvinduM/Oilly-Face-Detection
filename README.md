@@ -18,6 +18,8 @@ The system is built using **PyTorch** and utilizes **transfer learning** to achi
 - ✅ **Performance evaluation using accuracy, confusion matrix, and classification report**
 
 ---
+Dataset - https://www.kaggle.com/datasets/shakyadissanayake/oily-dry-and-normal-skin-types-dataset
+---
 
 ## Installation
 To set up the environment and run the project, install the necessary dependencies.
