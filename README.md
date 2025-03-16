@@ -148,3 +148,4 @@ A detailed classification report provides precision, recall, and F1-score for ea
 - **Use of EfficientNet** for more accurate classification
 
 
+![Screenshot 2025-03-16 202059](https://github.com/user-attachments/assets/2e2a0810-f338-4006-8b2d-20a0b8a55821)
